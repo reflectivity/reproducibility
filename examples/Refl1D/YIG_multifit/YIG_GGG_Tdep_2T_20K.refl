@@ -1,0 +1,79 @@
+# "template_data":{"template":{"modules":[{"module":"ncnr.refl.super_load.cached","config":{"intent":"specular","filelist":[{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_Tdep_2T_20K68601.nxz.ngd","source":"ncnr","mtime":1565944066,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_Tdep_2T_20K68601.nxz.ngd","source":"ncnr","mtime":1565944066,"entries":["UP_UP"]}],"Qz_basis":"detector","sample_width":5,"base":"monitor"},"title":"load spec","y":10,"x":30},{"module":"ncnr.refl.mask_points","title":"mask","y":10,"x":170},{"module":"ncnr.refl.join","title":"join","y":10,"x":310},{"module":"ncnr.refl.super_load.cached","config":{"intent":"background+","filelist":[{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_100K_3T68358.nxz.ngd","source":"ncnr","mtime":1565712425,"entries":["UP_UP"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_100K_3T68358.nxz.ngd","source":"ncnr","mtime":1565712425,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_100K_3T68359.nxz.ngd","source":"ncnr","mtime":1565720617,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_100K_3T68359.nxz.ngd","source":"ncnr","mtime":1565720617,"entries":["UP_UP"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_100K_3T68360.nxz.ngd","source":"ncnr","mtime":1565723388,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_100K_3T68360.nxz.ngd","source":"ncnr","mtime":1565723388,"entries":["UP_UP"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_100K_3T68361.nxz.ngd","source":"ncnr","mtime":1565731588,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_100K_3T68361.nxz.ngd","source":"ncnr","mtime":1565731588,"entries":["UP_UP"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_150K_3T68389.nxz.ngd","source":"ncnr","mtime":1565762283,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_150K_3T68389.nxz.ngd","source":"ncnr","mtime":1565762283,"entries":["UP_UP"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_150K_3T68390.nxz.ngd","source":"ncnr","mtime":1565770464,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_150K_3T68390.nxz.ngd","source":"ncnr","mtime":1565770464,"entries":["UP_UP"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_300K_3T68467.nxz.ngd","source":"ncnr","mtime":1565884272,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_300K_3T68467.nxz.ngd","source":"ncnr","mtime":1565884272,"entries":["UP_UP"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_300K_3T68458.nxz.ngd","source":"ncnr","mtime":1565860340,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_300K_3T68458.nxz.ngd","source":"ncnr","mtime":1565860340,"entries":["UP_UP"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_300K_3T68466.nxz.ngd","source":"ncnr","mtime":1565880713,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_300K_3T68466.nxz.ngd","source":"ncnr","mtime":1565880713,"entries":["UP_UP"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_300K_3T68457.nxz.ngd","source":"ncnr","mtime":1565852166,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/YIG_GGG_300K_3T68457.nxz.ngd","source":"ncnr","mtime":1565852166,"entries":["UP_UP"]}],"Qz_basis":"detector","sample_width":5,"base":"monitor"},"title":"load bg+","y":50,"x":30},{"module":"ncnr.refl.mask_points","title":"mask","y":50,"x":170},{"module":"ncnr.refl.super_load.cached","config":{"intent":"background-"},"title":"load bg-","y":90,"x":30},{"module":"ncnr.refl.mask_points","title":"mask","y":90,"x":170},{"module":"ncnr.refl.join","title":"join","y":90,"x":310},{"module":"ncnr.refl.join","title":"join","y":50,"x":310},{"module":"ncnr.refl.super_load.cached","config":{"intent":"intensity","filelist":[{"path":"ncnrdata/ngd/201907/26565/data/2T_Swiss5x5A68759.nxz.ngd","source":"ncnr","mtime":1566228438,"entries":["DOWN_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/2T_Swiss5x5A68759.nxz.ngd","source":"ncnr","mtime":1566228438,"entries":["DOWN_UP"]},{"path":"ncnrdata/ngd/201907/26565/data/2T_Swiss5x5A68759.nxz.ngd","source":"ncnr","mtime":1566228438,"entries":["UP_DOWN"]},{"path":"ncnrdata/ngd/201907/26565/data/2T_Swiss5x5A68759.nxz.ngd","source":"ncnr","mtime":1566228438,"entries":["UP_UP"]}],"Qz_basis":"detector","sample_width":5,"base":"monitor"},"title":"load slit","y":130,"x":30},{"module":"ncnr.refl.mask_points","title":"mask","y":130,"x":170},{"module":"ncnr.refl.rescale","title":"rescale","y":130,"x":310},{"module":"ncnr.refl.join","config":{"order":"file","group_by":"polarization","Q_tolerance":1000,"dQ_tolerance":1000},"title":"join","y":100,"x":460},{"module":"ncnr.refl.spin_asymmetry","title":"Spin asymm","y":130,"x":460},{"module":"ncnr.refl.subtract_background","title":"Sub bkg","y":10,"x":460},{"module":"ncnr.refl.estimate_polarization","title":"Estim. Pol","y":70,"x":540},{"module":"ncnr.refl.correct_polarization","title":"Correct Pol","y":10,"x":615},{"module":"ncnr.refl.correct_footprint","title":"Correct Footprint","y":10,"x":785,"config":{"correction_range":[0,1],"slope":275,"intercept":0}}],"wires":[{"source":[0,"output"],"target":[1,"data"]},{"source":[1,"output"],"target":[2,"data"]},{"source":[3,"output"],"target":[4,"data"]},{"source":[4,"output"],"target":[8,"data"]},{"source":[5,"output"],"target":[6,"data"]},{"source":[6,"output"],"target":[7,"data"]},{"source":[9,"output"],"target":[10,"data"]},{"source":[10,"output"],"target":[11,"data"]},{"source":[11,"output"],"target":[12,"data"]},{"source":[2,"output"],"target":[13,"data"]},{"source":[2,"output"],"target":[14,"data"]},{"source":[8,"output"],"target":[14,"backp"]},{"source":[7,"output"],"target":[14,"backm"]},{"source":[12,"output"],"target":[15,"data"]},{"source":[14,"output"],"target":[16,"data"]},{"source":[15,"polarization"],"target":[16,"polarization"]},{"source":[16,"output"],"target":[17,"data"]}]},"node":17,"terminal":"outputs","datasources":[{"name":"ncnr","url":"https://www.ncnr.nist.gov/pub/","start_path":"ncnrdata"}],"server_git_hash":"6f3db983a233f895d954aee9cddb440633035773","server_mtime":"2019-07-02T19:59:20.000Z","instrument_id":"ncnr.refl"}
+# "name": "YIG_GGG_Tdep_2T_20K68601"
+# "entry": "UP_UP"
+# "polarization": "++"
+# "wavelength": 4.75
+# "wavelength_resolution": 0.029999999329447746
+# "columns": ["Qz", "counts per incident count", "uncertainty", "resolution"]
+# "units": ["1/Ang", null, null, "1/Ang"]
+9.9988654256e-03 3.4505816062e-01 1.3495701672e-02 4.6923459973e-04
+1.0998516344e-02 3.4595856632e-01 1.2426729261e-02 4.7070093552e-04
+1.2002783827e-02 3.5028341158e-01 1.1613456148e-02 4.7224081270e-04
+1.3000120409e-02 3.3179464769e-01 1.0514750313e-02 4.7386773031e-04
+1.4002076350e-02 3.3068303616e-01 9.8419098364e-03 4.7556593242e-04
+1.4997101389e-02 3.0976718010e-01 8.9263487490e-03 4.7735015650e-04
+1.6001358628e-02 2.5315086979e-01 7.5039298048e-03 4.7920326951e-04
+1.7000997439e-02 2.2658334299e-01 6.6686048799e-03 4.8114139335e-04
+1.7998326570e-02 1.7374007090e-01 5.4387742859e-03 4.8314580440e-04
+1.9000267610e-02 1.3404192454e-01 4.4651529023e-03 4.8523410959e-04
+2.0002206787e-02 9.0144764325e-02 3.4116246160e-03 4.8739624619e-04
+2.1001834422e-02 6.2113115582e-02 2.6574206710e-03 4.8962077564e-04
+2.2001460195e-02 4.1613102400e-02 2.0506211706e-03 4.9192729286e-04
+2.2996462882e-02 2.6605921953e-02 1.5535663761e-03 4.9429355424e-04
+2.4000702426e-02 1.9345877114e-02 1.2638322819e-03 4.9674044257e-04
+2.5000317022e-02 1.3694360156e-02 1.0138020522e-03 4.9924439981e-04
+2.6002237573e-02 9.7691774514e-03 8.2070635286e-04 5.0182752256e-04
+2.6999536902e-02 6.9877601395e-03 6.6740130528e-04 5.0447746989e-04
+2.8001451865e-02 3.5243002910e-03 4.6965710591e-04 5.0718032591e-04
+2.9001047835e-02 2.8932604466e-03 4.1201023413e-04 5.0996030038e-04
+3.0000643805e-02 2.6988641528e-03 3.8518242717e-04 5.1280379143e-04
+3.1002545729e-02 1.9758196852e-03 3.2028412747e-04 5.1569632882e-04
+3.1997516751e-02 1.6206042776e-03 2.8179445277e-04 5.1866359347e-04
+3.3001717180e-02 1.6074683057e-03 2.7041951564e-04 5.2167713701e-04
+3.3996675164e-02 1.1696088851e-03 2.3488254188e-04 5.2474964744e-04
+3.5000868142e-02 1.2032006613e-03 2.2413723906e-04 5.2789448163e-04
+3.6000434309e-02 9.8091899014e-04 2.0006936072e-04 5.3109670398e-04
+3.6997687072e-02 6.2586564327e-04 1.6587647014e-04 5.3434003842e-04
+3.7999555469e-02 8.3949382798e-04 1.7682745446e-04 5.3765352140e-04
+3.9001416415e-02 4.7727143988e-04 1.4059151992e-04 5.4102124344e-04
+4.0003269911e-02 6.6041193824e-04 1.4812827361e-04 5.4442636632e-04
+
+
+# "name": "YIG_GGG_Tdep_2T_20K68601"
+# "entry": "DOWN_DOWN"
+# "polarization": "--"
+# "wavelength": 4.75
+# "wavelength_resolution": 0.029999999329447746
+# "columns": ["Qz", "counts per incident count", "uncertainty", "resolution"]
+# "units": ["1/Ang", null, null, "1/Ang"]
+9.9988654256e-03 3.4265228902e-01 1.3453971847e-02 4.6923459973e-04
+1.0998516344e-02 3.5787154430e-01 1.2656297462e-02 4.7070093552e-04
+1.2002783827e-02 3.1190199673e-01 1.0929903909e-02 4.7224081270e-04
+1.3000120409e-02 3.1330648777e-01 1.0194004027e-02 4.7386773031e-04
+1.4002076350e-02 2.9673881497e-01 9.2608462353e-03 4.7556593242e-04
+1.4997101389e-02 2.4718483911e-01 7.8588724262e-03 4.7735015650e-04
+1.6001358628e-02 2.0203400156e-01 6.6142362866e-03 4.7920326951e-04
+1.7000997439e-02 1.6540541651e-01 5.5905471155e-03 4.8114139335e-04
+1.7998326570e-02 1.2323442018e-01 4.5004737418e-03 4.8314580440e-04
+1.9000267610e-02 8.4803732971e-02 3.4848284851e-03 4.8523410959e-04
+2.0002206787e-02 6.5145346437e-02 2.8706472095e-03 4.8739624619e-04
+2.1001834422e-02 4.1771774530e-02 2.1632939872e-03 4.8962077564e-04
+2.2001460195e-02 2.7430869799e-02 1.6612085096e-03 4.9192729286e-04
+2.2996462882e-02 1.9390242511e-02 1.3266927427e-03 4.9429355424e-04
+2.4000702426e-02 1.2532323586e-02 1.0199100843e-03 4.9674044257e-04
+2.5000317022e-02 7.9913520253e-03 7.8471794345e-04 4.9924439981e-04
+2.6002237573e-02 5.5132798712e-03 6.3397729160e-04 5.0182752256e-04
+2.6999536902e-02 3.4696967982e-03 4.9145015374e-04 5.0447746989e-04
+2.8001451865e-02 2.9576816734e-03 4.3837628645e-04 5.0718032591e-04
+2.9001047835e-02 8.6532914372e-04 2.6653216281e-04 5.0996030038e-04
+3.0000643805e-02 8.2555051998e-04 2.5109830761e-04 5.1280379143e-04
+3.1002545729e-02 6.3281161752e-04 2.2156432305e-04 5.1569632882e-04
+3.1997516751e-02 1.6433895039e-04 1.6951703865e-04 5.1866359347e-04
+3.3001717180e-02 3.6681218553e-04 1.7552410894e-04 5.2167713701e-04
+3.3996675164e-02 1.2442816892e-04 1.4103329439e-04 5.2474964744e-04
+3.5000868142e-02 1.3565595531e-04 1.3517446402e-04 5.2789448163e-04
+3.6000434309e-02 5.0064860524e-04 1.6681861530e-04 5.3109670398e-04
+3.6997687072e-02 4.1740181827e-04 1.4895937572e-04 5.3434003842e-04
+3.7999555469e-02 7.2648908357e-04 1.6640795431e-04 5.3765352140e-04
+3.9001416415e-02 5.3840083215e-04 1.4385670916e-04 5.4102124344e-04
+4.0003269911e-02 4.5624046244e-04 1.3247212174e-04 5.4442636632e-04
